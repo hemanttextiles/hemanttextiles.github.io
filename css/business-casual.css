@@ -78,6 +78,11 @@ hr {
     font-size: 4em;
 }
 
+iframe{
+    margin-top: 3px;
+    margin-bottom:0px;
+}
+
 .tagline-divider {
     margin: 15px auto 3px;
     max-width: 250px;
